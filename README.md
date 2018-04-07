@@ -5,6 +5,7 @@ If you do not wish for oh-my-fish to be installed, a simple override file can be
 ```sh
 sudo touch /etc/omf.installed
 ```
+For whatever reason, I can't see to get `omf install <theme>` to work. The config is prepared for `bobthefish` to be used, but the install command needs to be run manually.
 
 ## Requirements
 - Git installed on the node.
