@@ -1,5 +1,5 @@
 ## roles/ansible-role-fish/meta/main.yml
-# vim:ft=ansible:
+# vim:ft=yaml.ansible:
 ---
 ## If another roles lists a dependency, it will only run once by default
 allow_duplicates: no

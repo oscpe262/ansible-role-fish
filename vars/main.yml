@@ -1,4 +1,4 @@
 ## roles/ansible-role-fish/vars/main.yml
-# vim:ft=ansible:
+# vim:ft=yaml.ansible:
 ---
 ...
